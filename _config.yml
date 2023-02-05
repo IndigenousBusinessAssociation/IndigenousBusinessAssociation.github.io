@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo v2 trimmed.png'
-background:         https://www.ucalgary.ca/hunter-hub/sites/default/files/styles/ucws_hero_cta_desktop/public/2021-07/Skyline-1920x768.jpg?itok=Lmlcs0QH
+background:         https://i.ibb.co/KLvjTD2/background3.png
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
