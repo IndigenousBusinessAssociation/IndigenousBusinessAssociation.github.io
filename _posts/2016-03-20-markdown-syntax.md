@@ -14,4 +14,4 @@ comments: true
 
 ## Progress Update...
 
-Currently we are waiting on the SU to officially recognize IBA. We then plan on registering as a haskayne club. Our estimated timeline currently is SU recognition around March-April, and Haskayne recognition around June-July. We will focus on recruitment and events once we are recognized as a Haskayne club. We will keep you updated through these posts, as well as a newsletter in the future. -JB
+Currently we are waiting on the SU to officially recognize IBA. We then plan on registering as a Haskayne club. Our estimated timeline currently is SU recognition around March-April, and Haskayne recognition around June-July. We will focus on recruitment and events once we are recognized as a Haskayne club. We will keep you updated through these posts, as well as a newsletter in the future. -JB
