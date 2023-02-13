@@ -9,8 +9,8 @@ comments: false
 <center>IBA is a club that supports Indigenous involvement within business.</center>
 
 ## We aim to...
-* Help indigenous students
-* Teach about Indigenous specfic knowledge in business
+* Support indigenous students
+* Teach Indigenous specfic knowledge in business
 * Connect Indigenous students together
 
 ## Website is still WIP
