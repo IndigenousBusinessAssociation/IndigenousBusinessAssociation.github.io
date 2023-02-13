@@ -5,11 +5,7 @@ date:   2023-02-08
 excerpt: "Check back on our upcoming events for 2023."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- Events
 comments: true
 ---
     
