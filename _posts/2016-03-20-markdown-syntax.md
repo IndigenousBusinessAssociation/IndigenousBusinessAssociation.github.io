@@ -4,11 +4,7 @@ title:  "Current Progress on IBA"
 date:   2023-02-08
 excerpt: "Currently waiting on SU to officially recognize IBA."
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- Update
 comments: true
 ---
 
